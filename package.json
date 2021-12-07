@@ -1,0 +1,14 @@
+{
+  "name": "azure-functions-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "jest": "^27.4.3"
+  }
+}
